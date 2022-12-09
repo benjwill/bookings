@@ -1,3 +1,20 @@
 {
-    "go.inferGopath": false
+    "go.autocompleteUnimportedPackages": true,
+    "go.formatTool": "goimports",
+    "C_Cpp.updateChannel": "Insiders",
+    "go.toolsManagement.autoUpdate": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "gopls": {
+        "experimentalWorkspaceModule": false,
+    },
+    "go.inferGopath": false,
+    "go.alternateTools": {
+    
+    }
 }
