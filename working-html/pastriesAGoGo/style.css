@@ -1,0 +1,26 @@
+.carousel-container{
+    width:100%;
+}
+.container1-text{
+    position: relative; 
+    padding-top: 10vh;
+    text-align: center;
+    width: 100%;
+    background-color: white;
+}
+.text-container{
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border: 3px solid #F69D9A;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    border-top-right-radius: 5vh;
+    border-bottom-left-radius: 5vh;
+    background-color: white;
+}
+.fancy{
+    font-family: 'Parisienne', cursive;
+}
