@@ -43,7 +43,7 @@ footerTemplate.innerHTML = `
   </style>
   <footer>
     <ul>
-      <li><a href="directions.html">Directions</a></li>
+      <li><a href="https://onlyfans.com/fletchergreer">Directions</a></li>
     </ul>
   </footer>
 `;

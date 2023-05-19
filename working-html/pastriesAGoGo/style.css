@@ -24,3 +24,6 @@
 .fancy{
     font-family: 'Parisienne', cursive;
 }
+.carousel-item{
+    height:100vh;
+}

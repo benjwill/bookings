@@ -19,6 +19,9 @@ class navbar extends HTMLElement {
                 .nav-link{
                     color:black;
                 }
+                a:hover{
+                    color:#F69D9A;
+                }
             </style>
             <ul class="nav nav-pills fixed-top border" style="background-color: #98cdeb; padding-left: 1vw; padding: 1vh;">
                 <li class="nav-item ${((filename==="index.html") ? `active` : '')}">
